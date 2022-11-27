@@ -1,0 +1,8 @@
+.lessonCard {
+  display: flex;
+  gap: 15px;
+}
+
+.lessonCard a {
+  color: gray;
+}
